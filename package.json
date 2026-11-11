@@ -1,0 +1,13 @@
+{
+  "name": "@koduai-cloud/skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "把 AI 做好的网页和小工具，发布成能访问、能分享的链接。",
+  "license": "MIT",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "verify": "node scripts/verify-package.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "pack": "node scripts/package-skill.mjs"
+  }
+}

@@ -1,0 +1,16 @@
+.local/
+node_modules/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+**/.appisle/
+*.key
+*.pem
+*.p12
+*.pfx
+*.kubeconfig
+__pycache__/
+*.pyc

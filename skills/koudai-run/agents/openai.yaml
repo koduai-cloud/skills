@@ -1,0 +1,4 @@
+interface:
+  display_name: "口袋空间部署"
+  short_description: "把 AI 做好的网页和小工具变成手机电脑都能打开的链接，并管理访问权限和设置"
+  default_prompt: "使用 $koudai-run 把这个项目放到口袋空间，给我手机和电脑都能打开的链接，并验证页面能正常访问、数据能保存。"
